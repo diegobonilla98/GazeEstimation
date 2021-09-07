@@ -8,7 +8,7 @@ Just simple UNet with residual connections, relu activations and sigmoid output.
 
 
 ## Results
-I used some haar cascade detectors for face and eyes detections (not seeking state-of-the-art results here).
+I used some haar cascade detectors for face and eyes detections (not seeking state-of-the-art results here). I will use a moving-average to smooth the movement and prevent the sudden jumps, but not today. Today we celebrate.
 ![](./ezgif.com-gif-maker.gif)
 
 
